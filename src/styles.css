@@ -4,3 +4,10 @@
 .has_margin {
   margin: 10px;
 }
+
+@font-face {
+	font-family: 'Baby';
+	src: url(/assets/fonts/chock-a-blocknf-webfont.woff) format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
