@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+.has_margin {
+  margin: 10px;
+}

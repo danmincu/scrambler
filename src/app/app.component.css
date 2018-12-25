@@ -1,0 +1,11 @@
+.swaptext {
+   font-family: 'Major Mono Display', monospace;
+   font-weight: bold;   
+   font-size : 19px;
+   width: 100%;   
+}
+
+button {
+  padding: 0px;
+  width: 14.05px;  
+}
