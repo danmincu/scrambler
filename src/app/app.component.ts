@@ -23,9 +23,9 @@ export class AppComponent {
   }
 
   initializeGame() {
-    this.textLines[0] = 'the whole art of war consists'.toLowerCase().replace(/ /g, '.');
-    this.textLines[1] = 'of guessing at what is on the'.toLowerCase().replace(/ /g, '.');
-    this.textLines[2] = 'other side of the hill       '.toLowerCase().replace(/ /g, '.');
+    this.textLines[0] = 'the whole art of war consists'.toUpperCase().replace(/ /g, '.');
+    this.textLines[1] = 'of guessing at what is on the'.toUpperCase().replace(/ /g, '.');
+    this.textLines[2] = 'other side of the hill       '.toUpperCase().replace(/ /g, '.');
     this.array_lines.push(this.textLines[0].split(''));
     this.array_lines.push(this.textLines[1].split(''));   
     this.array_lines.push(this.textLines[2].split(''));

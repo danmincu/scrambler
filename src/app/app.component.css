@@ -1,11 +1,7 @@
 .swaptext {
    font-family: 'Baby', monospace;
-   font-weight: bold;   
-   font-size : 19px;
+   font-weight: normal;   
+   font-size : 29px;
+   color: gray;
    width: 100%;   
-}
-
-button {
-  padding: 0px;
-  width: 17.69px;  
 }
